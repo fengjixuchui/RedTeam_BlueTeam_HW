@@ -16,7 +16,7 @@
 - [CTF-陇剑杯之内存分析-虚拟机内存取证](./hw/CTF-陇剑杯之内存分析-虚拟机内存取证.pdf)
 - [Tomcat Filter类型内存马与查杀技术学习](./hw/Tomcat%20Filter类型内存马与查杀技术学习.pdf)
 
-### 篮队检测工具
+### 篮队工具
 
 - [PrivescCheck-服务器权限&提权漏洞检查powershell脚本](https://github.com/itm4n/PrivescCheck)
 - [DuckMemoryScan-一个简单寻找包括不限于iis劫持,无文件木马,shellcode免杀后门的工具](https://github.com/huoji120/DuckMemoryScan)
@@ -35,6 +35,14 @@
 - [java-memshell-scanner：通过jsp脚本扫描java web Filter/Servlet型内存马](https://github.com/c0ny1/java-memshell-scanner)
 - [卸载冰蝎内存马](https://github.com/wuppp/releaseBehinderShell)
 - [Copagent：内存马查找工具](https://github.com/LandGrey/copagent)
+- [MySQL_Fake_Server：MySQL 蜜罐](https://github.com/fnmsd/MySQL_Fake_Server)
+- [LiqunShield：蓝队工具箱，可解爆破 webshell、解密哥斯拉流量等](https://github.com/Liqunkit/LiqunShield)
+- [JSPKiller：基于污点分析的JSP Webshell检测工具，模拟JVM的栈帧操作进行数据流分析，可以检测出各种变形的JSP Webshell](https://github.com/EmYiQing/JSPKiller)
+- [JspFinder：一款通过污点追踪发现Jsp webshell的工具](https://github.com/flowerwind/JspFinder)
+- [log_dependency_checklist：检查系统依赖是否包含漏洞版本的 log4j](https://github.com/LoRexxar/log_dependency_checklist)
+- [MemoryShell：内存马相关学习以及防御检测](https://github.com/su18/MemoryShell)
+- [SpringMemShell：Spring内存马研究](https://github.com/EmYiQing/SpringMemShell)
+- [FireKylin：火麒麟-网络安全应急响应工具(系统痕迹采集)](https://github.com/MountCloud/FireKylin)
 
 ### 红队工具
 
@@ -44,4 +52,6 @@
 - [MemoryShellLearn：内存马学习以及部分 Demo](https://github.com/bitterzzZZ/MemoryShellLearn)
 - [reMemshell：Java Agent内存马](https://github.com/22CB7139/reMemshell)
 - [Memory：内存马注入，内存马检测，filter、listener、servlet](https://github.com/birdhan/Memory)
+- [钉钉 RCE](https://github.com/Mr-xn/dingtalk-RCE)
+- [向日葵 RCE](https://github.com/Mr-xn/sunlogin_rce)
 
