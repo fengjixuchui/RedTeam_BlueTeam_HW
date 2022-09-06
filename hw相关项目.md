@@ -17,6 +17,10 @@
 - [Tomcat Filter类型内存马与查杀技术学习](./hw/Tomcat%20Filter类型内存马与查杀技术学习.pdf)
 - [yingji：应急相关内容](https://github.com/tide-emergency/yingji)
 - [windows下的dns恶意外连应急排查](https://mp.weixin.qq.com/s/bZqOEMSw14Gsb9_idkqttw)|[备份](https://archive.ph/stGYS)
+- [Mysql蜜罐反制Cobalt Strike](https://xz.aliyun.com/t/11631)|[备份](https://archive.ph/wip/WbR6L)
+- [对云函数隐藏C2技术的防御反制思路](https://xz.aliyun.com/t/11625)|[备份](https://archive.ph/wip/AqsFP)
+- [冰蝎v4.0传输协议详解](https://mp.weixin.qq.com/s/EwY8if6ed_hZ3nQBiC3o7A)|[备份](https://archive.ph/BVZmr)
+- [WorkMiner挖矿木马应急处置手册](./hw/WorkMiner挖矿木马应急处置手册.pdf)|[原文](https://mp.weixin.qq.com/s/N3BmLH4bZzn9yUDBklLBsQ)|[备份](https://archive.ph/wip/GPslX)
 
 ### 篮队工具
 
@@ -30,6 +34,7 @@
 - [pe-sieve：扫描指定进程，识别并转储各种潜在的恶意植入程序（替换/注入的 PE、shellcode、钩子、内存patches）](https://github.com/hasherezade/pe-sieve)
 - [MalMemDetect：检测奇怪的内存区域和 DLL](https://github.com/waldo-irc/MalMemDetect)
 - [BeaconEye：查找CobaltStrike beacon](https://github.com/CCob/BeaconEye)
+- [CobaltStrikeScan：从进程或者文件中扫描 CobaltStrike并解析配置](https://github.com/Apr4h/CobaltStrikeScan)
 - [aLIEz：Java内存马查杀工具](https://github.com/r00t4dm/aLIEz)
 - [微步在线-文件分析系统](https://s.threatbook.cn/)
 - [intezer-在线文件分析系统（类似微步）](https://analyze.intezer.com/)
@@ -96,6 +101,7 @@
 - [privatezilla：执行 Windows 10 的隐私和安全检查](https://github.com/builtbybel/privatezilla)
 - [DuckSysEye：解决杀毒软件无法查杀的木马或者高级威胁](https://github.com/huoji120/DuckSysEye)
 - [PowerHuntShares：PowerHuntShares是一个审计脚本，设计用于盘点、分析和报告Active Directory域上配置的滥用权限](https://github.com/NetSPI/PowerHuntShares)
+- [MenoyGone：通过 DOS 来耗尽 CS 云函数的调用额度](https://github.com/a1phaboy/MenoyGone)
 
 ### 红队工具
 
@@ -157,8 +163,16 @@
 - [Armor：浏览器反蜜罐插件](https://github.com/jayus0821/Armor)
 - [Forest：基于frp(0.44.0)二次开发，删除不必要功能，加密配置文件，修改流量以及文件特征](https://github.com/seventeenman/Forest)
 - [AceLdr：Cobalt Strike UDRL 用于内存扫描bypass](https://github.com/kyleavery/AceLdr)
+- [利用 PHP-FPM 做内存马的方法](https://tttang.com/archive/1720/)|[备份](https://web.archive.org/save/https://tttang.com/archive/1720/)
+- [mscan：一款域渗透扫描工具，方便一键自动化、全方位的信息收集及扫描域提权漏洞](https://github.com/lele8/mscan)
+- [Elevator：UAC Bypass by abusing RPC and debug objects.](https://github.com/Kudaes/Elevator)
+- [GetMail：利用NTLM Hash读取Exchange邮件](https://github.com/b0bac/GetMail)
+- [hoaxshell：一款功能强大的非传统Windows反向Shell](https://github.com/t3l3machus/hoaxshell)
+- [RedisWriteFile-通过 `Redis` 主从写出无损文件，可用于 `Windows` 平台下写出无损的 `EXE`、`DLL`、 `LNK` 和 `Linux` 下的 `OS` 等二进制文件](https://github.com/r35tart/RedisWriteFile)
 
 ### 其他
 
 [jvm-http-proxy-agent：一个 JVM 代理，它为所有主要的 JVM HTTP 客户端自动强制代理 HTTP(S) 连接并信任 MitM 证书](https://github.com/httptoolkit/jvm-http-proxy-agent)
+
+[CppWeixinHunter：微信内存信息提取 c++实现。可获取自己电脑上已登录微信的微信号，wxid，手机号，sqlite解密密钥。](https://github.com/baiyies/CppWeixinHunter)
 
