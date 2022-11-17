@@ -21,6 +21,7 @@
 - [对云函数隐藏C2技术的防御反制思路](https://xz.aliyun.com/t/11625)|[备份](https://archive.ph/wip/AqsFP)
 - [冰蝎v4.0传输协议详解](https://mp.weixin.qq.com/s/EwY8if6ed_hZ3nQBiC3o7A)|[备份](https://archive.ph/BVZmr)
 - [WorkMiner挖矿木马应急处置手册](./hw/WorkMiner挖矿木马应急处置手册.pdf)|[原文](https://mp.weixin.qq.com/s/N3BmLH4bZzn9yUDBklLBsQ)|[备份](https://archive.ph/wip/GPslX)
+- [使用Sqlmap的你可能踩中了“蜜罐”](https://mp.weixin.qq.com/s/hwLNz-00YCBvBWMzJZM2Bg)|[备份](https://archive.ph/TL3wY)|[备份1](https://web.archive.org/web/20220918114117/https://mp.weixin.qq.com/s/hwLNz-00YCBvBWMzJZM2Bg)
 
 ### 篮队工具
 
@@ -102,6 +103,9 @@
 - [DuckSysEye：解决杀毒软件无法查杀的木马或者高级威胁](https://github.com/huoji120/DuckSysEye)
 - [PowerHuntShares：PowerHuntShares是一个审计脚本，设计用于盘点、分析和报告Active Directory域上配置的滥用权限](https://github.com/NetSPI/PowerHuntShares)
 - [MenoyGone：通过 DOS 来耗尽 CS 云函数的调用额度](https://github.com/a1phaboy/MenoyGone)
+- [RmEye：戎码之眼是一个window上的基于att&ck模型的威胁监控工具.有效检测常见的未知威胁与已知威胁.防守方的利剑](https://github.com/RoomaSec/RmEye)
+- [maigret：更具用户名或者 ID 在数千个站点查询（可以用来辅助溯源）](https://github.com/soxoj/maigret)
+- [CVE-2022-39197：CobaltStrike <= 4.7.1 RCE 蓝队反打红队C2的利器!](https://github.com/its-arun/CVE-2022-39197)
 
 ### 红队工具
 
@@ -120,7 +124,7 @@
 - [SharpXDecrypt：Xshell全版本密码恢复工具](https://github.com/JDArmy/SharpXDecrypt)
 - [veinmind-tools：容器安全工具集](https://github.com/chaitin/veinmind-tools)
 - [Plog：仅用于提取登录密码的 Mimikatz（免杀大多数 AV）](https://github.com/GamehunterKaan/Plog)
-- [ShellcodeLoader：绕过防病毒软件的Shellocde加载器](https://github.com/ByPassAVTeam/ShellcodeLoader)
+- ~~[ShellcodeLoader：绕过防病毒软件的Shellocde加载器-release投毒，攻击红队，源码无毒](https://github.com/ByPassAVTeam/ShellcodeLoader)~~
 - [iisScaner：多线程批量检测IIS短文件名漏洞+漏洞利用](https://github.com/VMsec/iisScaner)
 - [AKtools-Java版的aliyun-accesskey-Tools](https://github.com/Moon3r/AKtools)|[aliyun-accesskey-Tools-此工具用于查询ALIYUN_ACCESSKEY的主机，并且远程执行命令](https://github.com/mrknow001/aliyun-accesskey-Tools)|[alicloud-tools：阿里云ECS、策略组辅助小工具](https://github.com/iiiusky/alicloud-tools)
 - [dismember：扫描内存里敏感内容，其实就是类似 OD的内存字符串搜索](https://github.com/liamg/dismember)
@@ -169,6 +173,25 @@
 - [GetMail：利用NTLM Hash读取Exchange邮件](https://github.com/b0bac/GetMail)
 - [hoaxshell：一款功能强大的非传统Windows反向Shell](https://github.com/t3l3machus/hoaxshell)
 - [RedisWriteFile-通过 `Redis` 主从写出无损文件，可用于 `Windows` 平台下写出无损的 `EXE`、`DLL`、 `LNK` 和 `Linux` 下的 `OS` 等二进制文件](https://github.com/r35tart/RedisWriteFile)
+- [SharpHostInfo：一款快速探测内网主机信息工具](https://github.com/shmilylty/SharpHostInfo)
+- [iscsicpl_bypassUAC无弹窗版](https://github.com/zha0gongz1/iscsicpl_bypassUAC)
+- [DumpThatLSASS：又一款bypass AV dump工具](https://github.com/D1rkMtr/DumpThatLSASS)|[CallBackDump：能过卡巴、核晶、defender等杀软的dump lsass进程工具](https://github.com/seventeenman/CallBackDump)
+- [FastjsonScan：Fastjson扫描器，可识别版本、依赖库、autoType状态等](https://github.com/a1phaboy/FastjsonScan)
+- [Bof2PIC：BOF/COFF obj file to PIC(shellcode)](https://github.com/timwhitez/Bof2PIC)
+- [AsmShellcodeLoader：汇编语言编写Shellcode加载器源代码](https://github.com/Rvn0xsy/AsmShellcodeLoader)
+- [ShellCode_Loader：Msf&CobaltStrike免杀ShellCode加载器](https://github.com/Axx8/ShellCode_Loader)
+- [log4j_detect：类似于所谓的rasp的通过java native agent检测log4j的漏洞利用检测工具](https://github.com/huoji120/log4j_detect)
+- [srdi-rs：Rusty Shellcode 反射 DLL 注入](https://github.com/memN0ps/srdi-rs)
+- [KnownDllUnhook：将当前加载的模块的 .txt 部分从 \KnownDlls\ 替换来绕过 edr](https://github.com/ORCx41/KnownDllUnhook)
+- [SharpToken：.NET版本的incognito，具有以下功能：枚举Token、从指定进程枚举Token、获得交互式shell、获取命令执行结果(webshell下执行)](https://github.com/BeichenDream/SharpToken)
+- [CLR-RWX：Load CLR to get RWX 通过加载clr在自身内存中产生rwx空间](https://github.com/timwhitez/CLR-RWX)
+- [VcenterKiller：一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005，提供一键上传webshell，命令执行或者上传公钥使用SSH连接](https://github.com/Schira4396/VcenterKiller)
+- [Freeze：使用多种技术绕过 EDR类产品加载 shellcode](https://github.com/optiv/Freeze)
+- [SharpADUserIP：提取DC日志，快速获取域用户对应IP地址](https://github.com/evilashz/SharpADUserIP)
+- [CreateUser：绕过360，火绒添加用户](https://github.com/RuanLang0777/CreateUser)
+- [SharpUserIP：在域控或远程提取登录日志，快速获取域用户对应的IP地址](https://github.com/lele8/SharpUserIP)
+- [geacon_pro：跨平台重构了Cobaltstrike Beacon，适配了大部分Beacon的功能，行为对国内主流杀软免杀，支持4.1以上的版本](https://github.com/H4de5-7/geacon_pro)
+- [go_proxy_pool：无环境依赖开箱即用的代理IP池](https://github.com/pingc0y/go_proxy_pool)
 
 ### 其他
 
