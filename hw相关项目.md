@@ -87,7 +87,7 @@
 - [NoAgent-memshell-scanner：NoAgent内存马检测程序](https://github.com/xyy-ws/NoAgent-memshell-scanner)
 - [DecodeSomeJSPWebshell：部分jspwebshell通信流量加解密器（利用java Swing 简单写的一个jspWebshell 解密工具： 支持 冰蝎2，冰蝎3，哥斯拉）](https://github.com/minhangxiaohui/DecodeSomeJSPWebshell)
 - [阿里云在线沙箱](https://ti.aliyun.com/#/sastiFile)|[微步沙箱](https://s.threatbook.cn/)|[any.run](https://any.run/)|[virustotal](https://www.virustotal.com/gui/home/upload)
-- [阿里云 webshel 检测](https://ti.aliyun.com/#/webshell)|[河马 webshell 检测](https://n.shellpub.com/)|[牧云 WebShell 检测引擎社区版 （Aka.关山）](https://stack.chaitin.com/security-challenge/webshell)|[百度WEBDIR+](https://scanner.baidu.com/#/pages/intro)
+- [阿里云 webshell 检测](https://ti.aliyun.com/#/webshell)|[河马 webshell 检测](https://n.shellpub.com/)|[牧云 WebShell 检测引擎社区版 （Aka.关山）](https://stack.chaitin.com/security-challenge/webshell)|[百度WEBDIR+](https://scanner.baidu.com/#/pages/intro)
 - [ide-honeypot：一款针对于IDE的反制蜜罐 IDE-honeypot](https://github.com/wendell1224/ide-honeypot)
 - [javare：在线JAVA反向工程网，可以在线反编译 class 为 JAVA 文件](http://javare.cn/)
 - [FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp：一种针对红队的新型溯源手段](https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp)
@@ -192,6 +192,9 @@
 - [SharpUserIP：在域控或远程提取登录日志，快速获取域用户对应的IP地址](https://github.com/lele8/SharpUserIP)
 - [geacon_pro：跨平台重构了Cobaltstrike Beacon，适配了大部分Beacon的功能，行为对国内主流杀软免杀，支持4.1以上的版本](https://github.com/H4de5-7/geacon_pro)
 - [go_proxy_pool：无环境依赖开箱即用的代理IP池](https://github.com/pingc0y/go_proxy_pool)
+- [glider：支持聚合多种协议的代理转发，比如常见的http、socks4/5/4a、ss、Trojan、Trojanc、VLESS、VMess、SSR、SSH、KCP、Websocket等协议，可以将多个机场的代理聚合做成代理池](https://github.com/nadoo/glider)
+- [YongyouNC-Unserialize-Tools：用友NC反序列化漏洞payload生成](https://github.com/Ghost2097221/YongyouNC-Unserialize-Tools)
+- [SchTask_0x727：创建隐藏计划任务，权限维持，Bypass AV](https://github.com/0x727/SchTask_0x727)
 
 ### 其他
 
