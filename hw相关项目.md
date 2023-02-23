@@ -107,6 +107,7 @@
 - [maigret：更具用户名或者 ID 在数千个站点查询（可以用来辅助溯源）](https://github.com/soxoj/maigret)
 - [CVE-2022-39197：CobaltStrike <= 4.7.1 RCE 蓝队反打红队C2的利器!](https://github.com/its-arun/CVE-2022-39197)
 - [cs-discovery：扫描指定目标地址是否存在Cobalt Strike服务](https://github.com/eremit4/cs-discovery)
+- [UsbKeyboardDataHacker：USB键盘流量包取证工具 , 用于恢复用户的击键信息](https://github.com/WangYihang/UsbKeyboardDataHacker)
 
 ### 红队工具
 
@@ -196,6 +197,14 @@
 - [glider：支持聚合多种协议的代理转发，比如常见的http、socks4/5/4a、ss、Trojan、Trojanc、VLESS、VMess、SSR、SSH、KCP、Websocket等协议，可以将多个机场的代理聚合做成代理池](https://github.com/nadoo/glider)
 - [YongyouNC-Unserialize-Tools：用友NC反序列化漏洞payload生成](https://github.com/Ghost2097221/YongyouNC-Unserialize-Tools)
 - [SchTask_0x727：创建隐藏计划任务，权限维持，Bypass AV](https://github.com/0x727/SchTask_0x727)
+- [SharpNTLMSSPExtract：利用 NTLMSSP 探测 Windows 信息](https://github.com/RowTeam/SharpNTLMSSPExtract)
+- [ShiroKeyCheck：gol编写的Shiro key检测爆破工具](https://github.com/myzxcg/ShiroKeyCheck)
+- [FilelessPELoader: 在内存中加载远程AES加密过的PE文件并解密运行](https://github.com/TheD1rkMtr/FilelessPELoader)
+- [Webshell_Generate：用于生成各类免杀webshell](https://github.com/cseroad/Webshell_Generate)
+- [seeyonExp：致远命令执行漏洞系列的GUI利用工具](https://github.com/kai1025/seeyonExp)
+- [APIKiller：API漏洞扫描、检测工具](https://github.com/Aur0ra-m/APIKiller)
+- [IIS_Backdoor_Dll：精简版IIS-Backdoor](https://github.com/badboycxcc/IIS_Backdoor_Dll)
+- [suo5：一款高性能 HTTP 代理隧道工具](https://github.com/zema1/suo5)
 
 ### 其他
 
