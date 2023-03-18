@@ -108,6 +108,9 @@
 - [CVE-2022-39197：CobaltStrike <= 4.7.1 RCE 蓝队反打红队C2的利器!](https://github.com/its-arun/CVE-2022-39197)
 - [cs-discovery：扫描指定目标地址是否存在Cobalt Strike服务](https://github.com/eremit4/cs-discovery)
 - [UsbKeyboardDataHacker：USB键盘流量包取证工具 , 用于恢复用户的击键信息](https://github.com/WangYihang/UsbKeyboardDataHacker)
+- [shell-analyzer：Java内存马查杀GUI工具，实时动态分析，支持本地和远程查杀](https://github.com/4ra1n/shell-analyzer)
+- [npscrack：蓝队利器、溯源反制、NPS 漏洞利用、NPS exp、NPS poc、Burp插件、一键利用（burp插件）](https://github.com/weishen250/npscrack)
+- [BlueTeamToolsV4.3.zip](./Blue_Tools/BlueTeamToolsV4.3.zip)
 
 ### 红队工具
 
@@ -205,6 +208,7 @@
 - [APIKiller：API漏洞扫描、检测工具](https://github.com/Aur0ra-m/APIKiller)
 - [IIS_Backdoor_Dll：精简版IIS-Backdoor](https://github.com/badboycxcc/IIS_Backdoor_Dll)
 - [suo5：一款高性能 HTTP 代理隧道工具](https://github.com/zema1/suo5)
+- [SmallProxyPool：一个免费高质量的小代理池（从fofa搜索开放socks5代理）](https://github.com/Ggasdfg321/SmallProxyPool)
 
 ### 其他
 
