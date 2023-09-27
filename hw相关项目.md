@@ -22,6 +22,7 @@
 - [冰蝎v4.0传输协议详解](https://mp.weixin.qq.com/s/EwY8if6ed_hZ3nQBiC3o7A)|[备份](https://archive.ph/BVZmr)
 - [WorkMiner挖矿木马应急处置手册](./hw/WorkMiner挖矿木马应急处置手册.pdf)|[原文](https://mp.weixin.qq.com/s/N3BmLH4bZzn9yUDBklLBsQ)|[备份](https://archive.ph/wip/GPslX)
 - [使用Sqlmap的你可能踩中了“蜜罐”](https://mp.weixin.qq.com/s/hwLNz-00YCBvBWMzJZM2Bg)|[备份](https://archive.ph/TL3wY)|[备份1](https://web.archive.org/web/20220918114117/https://mp.weixin.qq.com/s/hwLNz-00YCBvBWMzJZM2Bg)
+- [SuperShell溯源反制-默认密钥/密码利用](https://mp.weixin.qq.com/s/kspLJYFfB6tD7d7Pao94Lg?ref=https://github.com/Mr-xn/RedTeam_BlueTeam_HW)|[备份](./doc/blue/SuperShell溯源反制-默认密钥:密码利用.html)
 
 ### 篮队工具
 
@@ -110,7 +111,9 @@
 - [UsbKeyboardDataHacker：USB键盘流量包取证工具 , 用于恢复用户的击键信息](https://github.com/WangYihang/UsbKeyboardDataHacker)
 - [shell-analyzer：Java内存马查杀GUI工具，实时动态分析，支持本地和远程查杀](https://github.com/4ra1n/shell-analyzer)
 - [npscrack：蓝队利器、溯源反制、NPS 漏洞利用、NPS exp、NPS poc、Burp插件、一键利用（burp插件）](https://github.com/weishen250/npscrack)
-- [BlueTeamToolsV4.3.zip](./Blue_Tools/BlueTeamToolsV4.3.zip)
+- [BlueTeamToolsV4.3.zip](./Blue_Tools/BlueTeamToolsV4.3.zip)|[BlueTeamToolsV0.52.zip](./Blue_Tools/BlueTeamToolsV0.52.zip)
+- [JSPHunter: 基于污点分析和模拟栈帧技术的JSP Webshell检测基于污点分析和模拟栈帧技术的JSP Webshell检测](https://github.com/TonyD0g/JSPHunter)
+- [windodws-logs-analysis: windows日志一键分析小工具](https://github.com/dogadmin/windodws-logs-analysis)
 
 ### 红队工具
 
@@ -209,6 +212,16 @@
 - [IIS_Backdoor_Dll：精简版IIS-Backdoor](https://github.com/badboycxcc/IIS_Backdoor_Dll)
 - [suo5：一款高性能 HTTP 代理隧道工具](https://github.com/zema1/suo5)
 - [SmallProxyPool：一个免费高质量的小代理池（从fofa搜索开放socks5代理）](https://github.com/Ggasdfg321/SmallProxyPool)
+- [rabbithole: 一个完全使用Rust编写的代理池工具，从网络搜索socks5代理，检测可用性之后开启socks5代理服务](https://github.com/AbelChe/rabbithole)
+- [wmiexec-Pro: 新一代的wmiexec.py](https://github.com/XiaoliChan/wmiexec-Pro)
+- [nanodump: LSASS转储的瑞士军刀](https://github.com/fortra/nanodump)
+- [GoLangPhant0m: 杀win 日志](https://github.com/nu1r/GoLangPhant0m)
+- [feroxbuster: 一个用Rust编写的快速、简单、递归的目录扫描工具](https://github.com/epi052/feroxbuster)
+- [yetAnotherObfuscator: 绕过Windows Defender的C#混淆器](https://github.com/0xb11a1/yetAnotherObfuscator)
+- [SharpExchangeKing: Exchange 服务器安全性的辅助测试工具](https://github.com/RowTeam/SharpExchangeKing)
+- [HardHatC2: 一个C#命令和控制框架](https://github.com/DragoQCC/HardHatC2)
+- [Supershell: Supershell C2 远控平台，基于反向SSH隧道获取完全交互式Shell](https://github.com/tdragon6/Supershell)
+- [superman：杀死受防病毒保护的进程工具](https://github.com/b1-team/superman)｜[备份下载](./Red_Tools/superman.exe)
 
 ### 其他
 
